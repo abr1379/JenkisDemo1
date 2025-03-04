@@ -1,0 +1,19 @@
+sudo apt install git
+git init
+git status
+git add .
+git status
+git commit -m "First Commit"
+git config --global user.username "username"
+git config --global user.email "you@example.com"
+git coomit -m "FIrst Commit"
+git remote add origin"url"
+git push origin master 
+    >username
+    >password:copy token 
+go to git hub press on icon go to setting and then press delivery settings and press personal access key and generate token
+last git push origin master
+ >username
+ >password(token)
+ 
+
